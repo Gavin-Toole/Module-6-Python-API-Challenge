@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Challenge 6 API Keys
+api_keys.py
+
+
 # C extensions
 *.so
 
